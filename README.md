@@ -3,7 +3,8 @@
 **`Technology Professional | Cybersecurity Analyst`**
 
 <p align="center">
-	<script src="https://tryhackme.com/badge/280804"></script>
+	<a href="https://tryhackme-badges.s3.amazonaws.com/aliensexist.png">
+		<img title="TryHackMe Rank" src="https://tryhackme-badges.s3.amazonaws.com/aliensexist.png" alt="TryHackMe Rank"></a>
 </p>
 
 
