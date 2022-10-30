@@ -1,4 +1,11 @@
-### Hi there 👋
+# CyberCondor
+
+**`Technology Professional | Cybersecurity Analyst`**
+
+<p align="center">
+	<script src="https://tryhackme.com/badge/280804"></script>
+</p>
+
 
 <!--
 **CyberCondor/CyberCondor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
