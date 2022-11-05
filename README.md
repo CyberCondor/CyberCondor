@@ -30,8 +30,7 @@ On this page you might find BASH scripts that allowed CyberCondor to control mul
 <img align="left" width="35px" alt="JavaScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" width="35px" alt="RedHat"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain.svg" />
 <img align="left" width="35px" alt="RedHat"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" />
-
-<br> 
+<br><br><br> 
 
 #
 ---
@@ -40,7 +39,8 @@ On this page you might find BASH scripts that allowed CyberCondor to control mul
 ### Certifications
 
 <img align="left" alt="CompTIA Security+ Certified" width="105px" height="105px" style="padding-right:20px;" src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" />
-<img align="left" alt="CompTIA A+ Certified" width="105px" height="105px" style="padding-right:20px;" src="https://images.credly.com/size/680x680/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" /> <br> <br> <br> <br>
+<img align="left" alt="CompTIA A+ Certified" width="105px" height="105px" style="padding-right:20px;" src="https://images.credly.com/size/680x680/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" />
+<br><br><br><br>
 
 #
 ---
@@ -58,7 +58,7 @@ On this page you might find BASH scripts that allowed CyberCondor to control mul
 
 <details>
 	<summary><h3>👁‍🗨 whois CyberCondor</h3></summary>
-		CyberCondor is a life-long learner, a security geek, a researcher, and a friend. With the power of Google, CyberCondor has surfed many webs and has compiled much data. Through the Internet, CyberCondor's journey can <em>and will</em> be shared.
+		CyberCondor is a life-long learner, a security geek, a researcher, and a friend. With the power of Google, CyberCondor has surfed many webs and has compiled much data. Through the Internet, CyberCondor's journey <em>will</em> be shared.
 </details>
 <sub><sup>Code comming soon! - December 2022</sup></sub>
 
