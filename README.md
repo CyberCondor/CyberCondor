@@ -8,7 +8,7 @@
 
 ###### All code here is dedicated to the Internet and other curious humans that find value in technology.
 <br>
-On this page you might find BASH scripts that allowed CyberCondor to control multiple Linux machines in <em>unison</em>, PowerShell scripts that analyze/change/audit/correlate information from {AD, Azure AD, Office 365, Microsoft Exchange} environments, <em>proof of concept</em> gaming bots written in C++, various web-scraping utilities using {Python, Selenium, BeautifulSoup4}, and custom log analysis tools.
+On this page you might find BASH scripts that control multiple Linux shells in <em>unison</em>, PowerShell scripts that analyze/change/audit/correlate information from {AD, Azure AD, Office 365, Microsoft Exchange} environments, <em>proof of concept</em> gaming bots, various web-scraping utilities, and custom log analysis tools.
 <br><sub><sup>This is the culmination of thousands of hours of research and dedication. I do it for me, but I share it for you! 🖤</sup></sub>
 
 #
@@ -46,21 +46,11 @@ On this page you might find BASH scripts that allowed CyberCondor to control mul
 ---
 #
 
-###### 👽s Exist @ TryHackMe <br> This is one of the many places I consume information. Big shout-out to TryHackMe for making basic cybersecurity knowledge accessible.
-<p align="left">
-	<a href="https://tryhackme-badges.s3.amazonaws.com/aliensexist.png">
-		<img title="TryHackMe Rank" src="https://tryhackme-badges.s3.amazonaws.com/aliensexist.png" alt="TryHackMe Rank"></a>
-</p>
-
-#
----
-#
-
 <details>
 	<summary><h3>👁‍🗨 whois CyberCondor</h3></summary>
 		CyberCondor is a life-long learner, a security geek, a researcher, and a friend. With the power of Google, CyberCondor has surfed many webs and has compiled much data. Through the Internet, CyberCondor's journey <em>will</em> be shared.
 </details>
-<sub><sup>Code comming soon! - December 2022</sup></sub>
+<sub><sup>2023</sup></sub>
 
 <!--
 **CyberCondor/CyberCondor** is a ✨ _special_ ✨ repository.
