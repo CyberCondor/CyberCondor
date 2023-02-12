@@ -21,6 +21,7 @@ On this page you might find BASH scripts that control multiple Linux shells in <
 <img align="left" width="35px" alt="BASH"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" width="35px" alt="C++"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" width="35px" alt="Python"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" width="35px" alt="PowerShell"      src="https://learn.microsoft.com/en-us/powershell/media/index/ps_black_128.svg" />
 <img align="left" width="35px" alt="Vim"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img align="left" width="35px" alt="RaspberryPi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" width="35px" alt="MySQL"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
