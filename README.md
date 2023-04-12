@@ -6,7 +6,7 @@
 ---
 #
 
-###### All code here is dedicated to the Internet and other curious humans that find value in technology.
+###### All code here is dedicated to the Internet and curious humans that find value in technology.
 <br>
 On this page you might find BASH scripts that control multiple Linux shells in <em>unison</em>, PowerShell scripts that analyze/change/audit/correlate information from {AD, Azure AD, Office 365, Microsoft Exchange} environments, <em>proof of concept</em> gaming bots, various web-scraping utilities, and custom log analysis tools.
 <br><sub><sup>This is the culmination of thousands of hours of research and dedication. I do it for me, but I share it for you! 🖤</sup></sub>
