@@ -39,7 +39,9 @@ On this page you might find BASH scripts that control multiple Linux shells in <
 
 ### Certifications
 
-<img align="left" alt="CompTIA A+ Certified" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/04294-comptia-cert-badges-csis.png?sfvrsn=64a8a736_2" />
+<img align="left" alt="CompTIA Security Analytics Professional" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/04294-comptia-cert-badges_professional---csap.png?sfvrsn=61a8a736_2" />
+<img align="left" alt="CompTIA Secure Infrastructure Specialist" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/04294-comptia-cert-badges-csis.png?sfvrsn=64a8a736_2" />
+<img align="left" alt="CompTIA IT Operations Specialist" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/04294-comptia-cert-badges_specialist---cios.png?sfvrsn=6aa8a736_2" />
 <br><br><br><br>
 
 #
