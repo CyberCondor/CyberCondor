@@ -39,7 +39,7 @@ On this page you might find BASH scripts that control multiple Linux shells in <
 
 ### Certifications
 
-<img align="left" alt="SSCP – Systems Security Certified Practitioner" width="135px" height="135px" style="padding-right:5px;" src="https://media.isc2.org/-/jssmedia/Project/ISC2/Main/Components/Product-Masthead/Badge-SSCP-white.png?" />
+<img align="left" alt="SSCP – Systems Security Certified Practitioner" width="105px" height="105px" style="padding-right:5px;" src="https://images.credly.com/size/680x680/images/c4320f01-2ff4-4508-984a-415fc94e3aec/image.png" />
 <img align="left" alt="CompTIA Security Analytics Professional" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/04294-comptia-cert-badges_professional---csap.png?" />
 <img align="left" alt="CompTIA Secure Infrastructure Specialist" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/04294-comptia-cert-badges-csis.png?" />
 <img align="left" alt="CompTIA IT Operations Specialist" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/04294-comptia-cert-badges_specialist---cios.png?" />
