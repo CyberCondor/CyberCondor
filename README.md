@@ -39,9 +39,12 @@ On this page you might find BASH scripts that control multiple Linux shells in <
 
 ### Certifications
 
-<img align="left" alt="CompTIA Security Analytics Professional" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/04294-comptia-cert-badges_professional---csap.png?sfvrsn=61a8a736_2" />
-<img align="left" alt="CompTIA Secure Infrastructure Specialist" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/04294-comptia-cert-badges-csis.png?sfvrsn=64a8a736_2" />
-<img align="left" alt="CompTIA IT Operations Specialist" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/04294-comptia-cert-badges_specialist---cios.png?sfvrsn=6aa8a736_2" />
+<img align="left" alt="SSCP – Systems Security Certified Practitioner" width="135px" height="135px" style="padding-right:5px;" src="https://media.isc2.org/-/jssmedia/Project/ISC2/Main/Components/Product-Masthead/Badge-SSCP-white.png?" />
+<img align="left" alt="CompTIA Security Analytics Professional" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/04294-comptia-cert-badges_professional---csap.png?" />
+<img align="left" alt="CompTIA Secure Infrastructure Specialist" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/04294-comptia-cert-badges-csis.png?" />
+<img align="left" alt="CompTIA IT Operations Specialist" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/04294-comptia-cert-badges_specialist---cios.png?" />
+<img align="left" alt="CompTIA Network Vulnerability Assessment Professional" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/cnvp.png?" />
+<img align="left" alt="CompTIA Network Security Professional" width="105px" height="105px" style="padding-right:20px;" src="https://comptiacdn.azureedge.net/webcontent/images/default-source/certproduct/pathways/cnsp.png?" />
 <br><br><br><br>
 
 #
