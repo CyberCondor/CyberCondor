@@ -1,14 +1,15 @@
 # CyberCondor
 
-**`Technology Professional | Cybersecurity Analyst`**
+**`Technology Professional | Cybersecurity Engineer`**
 
 #
 ---
 #
 
-###### All code here is dedicated to the Internet and curious humans that find value in technology.
+###### All code here is dedicated to the Internet and curious humans.
 <br>
-On this page you might find BASH scripts that control multiple Linux shells in <em>unison</em>, PowerShell scripts that analyze/change/audit/correlate information from {AD, Azure AD, Office 365, Microsoft Exchange} environments, <em>proof of concept</em> gaming bots, various web-scraping utilities, and custom log analysis tools.
+On this GitHub profile, you will mostly find PowerShell scripts that analyze, audit, and correlate information from Active Directory, Entra, Azure, Office 365, and Microsoft Exchange.
+
 <br><sub><sup>This is the culmination of thousands of hours of research and dedication. I do it for me, but I share it for you! 🖤</sup></sub>
 
 #
@@ -21,7 +22,7 @@ On this page you might find BASH scripts that control multiple Linux shells in <
 <img align="left" width="35px" alt="BASH"        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" width="35px" alt="C++"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" width="35px" alt="Python"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" width="35px" alt="PowerShell"      src="https://learn.microsoft.com/en-us/powershell/media/index/ps_black_128.svg" />
+<img align="left" width="35px" alt="PowerShell"  src="https://learn.microsoft.com/en-us/powershell/media/index/ps_black_128.svg" />
 <img align="left" width="35px" alt="Vim"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img align="left" width="35px" alt="RaspberryPi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" width="35px" alt="MySQL"       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -53,9 +54,9 @@ On this page you might find BASH scripts that control multiple Linux shells in <
 
 <details>
 	<summary><h3>👁‍🗨 whois CyberCondor</h3></summary>
-		CyberCondor is a life-long learner, a security geek, a researcher, and a friend. With the power of Google, CyberCondor has surfed many webs and has compiled much data. Through the Internet, CyberCondor's journey <em>will</em> be shared.
+		CyberCondor is a life-long learner, a security geek, a researcher, and a friend. With the power of Google, CyberCondor has surfed many webs and has compiled much data. CyberCondor loves PowerShell.
 </details>
-<sub><sup>2023</sup></sub>
+<sub><sup>2025</sup></sub>
 
 <!--
 **CyberCondor/CyberCondor** is a ✨ _special_ ✨ repository.
